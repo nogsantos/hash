@@ -30,7 +30,7 @@ npm i -P @nogsantos/hash
 
 <body>
 
-    <script src="./dist/hash.umd.min.js"></script>
+    <script src="./node_modules/@nogsantos/hash/dist/hash.umd.min.js"></script>
     <script>
         var md5 = new Hash.Md5();
         var md5Results = [
@@ -57,17 +57,17 @@ npm i -P @nogsantos/hash
 
 ```
 
-#### Output:
+#### Output
 
 ![Console](https://res.cloudinary.com/nogsantos/image/upload/v1517849815/Screenshot_from_2018-02-05_14-53-31_qk4smh.png)
 
 ### Node
 
 ```javascript
-const Md5 = require('./dist/hash').Md5;
-const Sha1 = require('./dist/hash').Sha1;
+const Md5 = require('@nogsantos/hash').Md5;
+const Sha1 = require('@nogsantos/hash').Sha1;
 // or just
-// const { Md5, Sha1}  = require('./dist/hash');
+// const { Md5, Sha1}  = require('@nogsantos/hash');
 
 const md5 = new Md5();
 console.log('md5: ', md5.encode('Lorem ipsum dolor sit, amet consectetur adipisicing elit.'));
