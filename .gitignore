@@ -1,0 +1,10 @@
+*~
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+*.log
+coverage/
+dist/
+*.tgz
+.nyc_output/
