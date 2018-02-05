@@ -1,7 +1,7 @@
 {
     "name": "@nogsantos/hash",
     "version": "0.0.0-development",
-    "description": "Skeleton to build javascript npm package",
+    "description": "Sha1 and Md5 hash encoder for javascript",
     "homepage": "https://github.com/nogsantos/@nogsantos/hash#readme",
     "main": "dist/hash.js",
     "scripts": {
@@ -20,7 +20,11 @@
         "travis-deploy-once": "travis-deploy-once"
     },
     "keywords": [
-        "javascript"
+        "Javascript",
+        "NodeJS",
+        "Hash",
+        "Sha1",
+        "Md5"
     ],
     "files": [
         "dist",
