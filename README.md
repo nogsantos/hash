@@ -1,6 +1,6 @@
 # @nogsantos/hash
 
-[![Travis](https://img.shields.io/travis/nogsantos/@nogsantos/hash.svg?style=flat-square)](https://travis-ci.org/nogsantos/@nogsantos/hash)
+[![Travis](https://img.shields.io/travis/nogsantos/hash.svg?style=flat-square)](https://travis-ci.org/nogsantos/hash)
 [![NPM version](https://img.shields.io/npm/v/@nogsantos/hash.svg?style=flat-square)](https://www.npmjs.com/package/@nogsantos/hash)
 [![NPM downloads](https://img.shields.io/npm/dm/@nogsantos/hash.svg?style=flat-square)](https://www.npmjs.com/package/@nogsantos/hash)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://opensource.org/licenses/MIT)
